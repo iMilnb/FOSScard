@@ -19,7 +19,11 @@
 
 ---
 
+<div align="center">
+
 ![FOSScard](pics/FOSScard.png)
+
+</div>
 
 ---
 
