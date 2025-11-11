@@ -35,10 +35,11 @@
 
 ### 🎨 **Multiple Themes**
 Choose from 4 carefully crafted color schemes:
-- **Dark** - Classic Magic card aesthetic
-- **Light** - Clean and professional
-- **Matrix** - Hacker green on black
-- **Molokai** - Inspired by the iconic Vim colorscheme
+- **dark** - Classic Magic card aesthetic
+- **light** - Clean and professional
+- **matrix** - Hacker green on black
+- **molokai** - Inspired by the iconic Vim colorscheme
+
 Or create your own!
 
 ### 📊 **Complexity Indicators**
