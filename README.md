@@ -266,7 +266,7 @@ We love contributions! Whether it's:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the WTFPL License - see the [LICENSE](LICENSE) file for details.
 
 ### 🎴 Made with ❤️ for the FOSS community
 
