@@ -19,6 +19,10 @@
 
 ---
 
+![FOSScard](pics/FOSScard.png)
+
+---
+
 ## 🤔 Why FOSScard?
 
 - **🎯 Stand Out**: Turn your GitHub profile into eye-catching visual art
