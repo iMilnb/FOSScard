@@ -1,0 +1,11 @@
+meta:
+  name: light
+  author: "Emile 'iMil' Heitor <imil@NetBSD.org>"
+style:
+  background: "linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%)"
+  card_background: "linear-gradient(to bottom, #ffffff 0%, #f1f3f5 100%)"
+  border_color: "#495057"
+  text_color: "#212529"
+  header_color: "#495057"
+  section_background: "rgba(73, 80, 87, 0.05)"
+  accent: "#228be6"

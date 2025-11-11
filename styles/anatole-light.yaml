@@ -1,0 +1,11 @@
+meta:
+  name: anatole-light
+  author: "Étienne 'lenain' Girondel <lenaing@gmail.com>"
+style:
+  background: "linear-gradient(135deg, #eee 0%, #fff 100%)"
+  card_background: "linear-gradient(135deg, #eee 0%, #fff 100%)"
+  border_color: "#f2f2f2"
+  text_color: "#8c8c8c"
+  header_color: "#555"
+  section_background: "#e1e1e1"
+  accent: "#4f4f4f"
