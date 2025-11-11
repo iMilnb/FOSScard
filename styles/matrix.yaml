@@ -1,0 +1,11 @@
+meta:
+  name: matrix
+  author: "Emile 'iMil' Heitor <imil@NetBSD.org>"
+style:
+  background: "linear-gradient(135deg, #0d0208 0%, #001b1c 100%)"
+  card_background: "linear-gradient(to bottom, #003b00 0%, #001b00 100%)"
+  border_color: "#00ff41"
+  text_color: "#00ff41"
+  header_color: "#00ff41"
+  section_background: "rgba(0, 255, 65, 0.1)"
+  accent: "#00cc33"

@@ -33,11 +33,13 @@
 ## ✨ Features
 
 ### 🎨 **Multiple Themes**
-Choose from 4 carefully crafted color schemes:
+Choose from carefully crafted color schemes:
 - **dark** - Classic Magic card aesthetic
 - **light** - Clean and professional
 - **matrix** - Hacker green on black
 - **molokai** - Inspired by the iconic Vim colorscheme
+- **anatole-light** - Inspired by the Farbox theme Anatole
+- **anatole-dark** - Inspired by the Farbox theme Anatole
 
 Or create your own!
 
@@ -75,7 +77,7 @@ git clone https://github.com/iMilnb/FOSScard.git
 cd FOSScard
 
 # Install dependencies
-pip install pyyaml
+pip install -r requirements.txt
 
 # Create your profile (see examples below)
 ${EDITOR} yourname.yaml
@@ -264,7 +266,7 @@ We love contributions! Whether it's:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the WTFPL License - see the [LICENSE](LICENSE) file for details.
 
 ### 🎴 Made with ❤️ for the FOSS community
 

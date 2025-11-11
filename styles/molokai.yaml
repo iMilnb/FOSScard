@@ -1,0 +1,11 @@
+meta:
+  name: molokai
+  author: "Emile 'iMil' Heitor <imil@NetBSD.org>"
+style:
+  background: "linear-gradient(135deg, #1B1D1E 0%, #232526 100%)"
+  card_background: "linear-gradient(to bottom, #272822 0%, #1e1f1c 100%)"
+  border_color: "#66D9EF"
+  text_color: "#F8F8F2"
+  header_color: "#F92672"
+  section_background: "rgba(102, 217, 239, 0.08)"
+  accent: "#A6E22E"

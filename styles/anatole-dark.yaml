@@ -1,0 +1,11 @@
+meta:
+  name: anatole-dark
+  author: "Étienne 'lenain' Girondel <lenaing@gmail.com>"
+style:
+  background: "linear-gradient(135deg, #071a29 0%, #152028 100%)"
+  card_background: "linear-gradient(to bottom, #071a29 0%, #152028 100%)"
+  border_color: "#464646"
+  text_color: "#a6a6a6"
+  header_color: "#eee"
+  section_background: "#25455b"
+  accent: "#eee"
