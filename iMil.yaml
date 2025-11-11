@@ -5,7 +5,7 @@ header_background: https://imil.net/fosscard/BSDnight.png
 style: molokai
 projects:
 
-  OS:
+  ⚙️ OS:
     NetBSD:
       pkgin:
         link: https://pkgin.net
@@ -40,13 +40,13 @@ projects:
         description: various packages creation
         complexity: 2
 
-  AI:
+  🤖 AI:
     Go:
       cbg:
         link: https://gitlab.com/iMil/cbg
         description: a command line frontend to various AI APIs
         complexity: 2
-  misc:
+  🎛️ misc:
     Go:
       telegrun:
         link: https://gitlab.com/iMil/telegrun
@@ -64,3 +64,19 @@ projects:
         link: https://gitlab.com/iMil/unchinifyer
         description: take control over an ieGeek security webcam
         complexity: 4
+
+  🌐 web:
+    JavaScript:
+      stegany:
+        link: https://gitlab.com/iMil/stegany
+        description: frontend to stegcloak
+    Go:
+      Gruik:
+        link: https://gitlab.com/gcu-squad/gruik
+        description: IRC bot written in Go that fetches RSS feeds
+      gruiddit:
+        link: https://gitlab.com/iMil/gruiddit
+        description: reddit to IRC and Twitter gateway
+      GCU Live:
+        link: https://gitlab.com/gcu-squad/gcu-live
+        description: IRC live feed on a web page
