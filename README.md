@@ -239,6 +239,8 @@ Check out `iMil.yaml` in this repository for a complete example featuring:
 - Various projects with different complexity levels
 - Molokai theme styling
 
+And tadaa: [iMil's FOSScard](https://imil.net/fosscard/)
+
 ---
 
 ## 🤸 Contributing
