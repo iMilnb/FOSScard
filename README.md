@@ -77,7 +77,7 @@ git clone https://github.com/iMilnb/FOSScard.git
 cd FOSScard
 
 # Install dependencies
-pip install pyyaml
+pip install -r requirements.txt
 
 # Create your profile (see examples below)
 ${EDITOR} yourname.yaml
