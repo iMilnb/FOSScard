@@ -33,11 +33,13 @@
 ## ✨ Features
 
 ### 🎨 **Multiple Themes**
-Choose from 4 carefully crafted color schemes:
+Choose from carefully crafted color schemes:
 - **dark** - Classic Magic card aesthetic
 - **light** - Clean and professional
 - **matrix** - Hacker green on black
 - **molokai** - Inspired by the iconic Vim colorscheme
+- **anatole-light** - Inspired by the Farbox theme Anatole
+- **anatole-dark** - Inspired by the Farbox theme Anatole
 
 Or create your own!
 
