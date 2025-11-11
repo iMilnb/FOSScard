@@ -243,7 +243,7 @@ def generate_html(data):
         }}
         
         .language {{
-            font-size: 13px;
+            font-size: 15px;
             font-weight: 600;
             color: {style['accent']};
             margin: 10px 0 6px 10px;
@@ -257,6 +257,7 @@ def generate_html(data):
         }}
         
         .project-name {{
+            font-size: 14px;
             font-weight: 600;
             color: {style['text_color']};
             display: inline;
