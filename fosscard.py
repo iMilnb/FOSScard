@@ -39,6 +39,11 @@ def generate_html(data):
 
     style_name = data.get('style', 'dark').lower()
     style = load_style(style_name)['style']
+
+    # If footer_background is not present in the style, use section_background
+    if 'footer_background' not in style:
+        style['footer_background'] = style['section_background']
+
     projects = data.get('projects', {})
 
     # Build project sections HTML
@@ -252,7 +257,7 @@ def generate_html(data):
 
         .footer {{
             padding: 12px 20px;
-            background: {style['section_background']};
+            background: {style['footer_background']};
             border-top: 2px solid {style['border_color']};
             text-align: center;
             font-size: 10px;

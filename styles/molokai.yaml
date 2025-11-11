@@ -9,3 +9,4 @@ style:
   header_color: "#F92672"
   section_background: "rgba(102, 217, 239, 0.08)"
   accent: "#A6E22E"
+  footer_background: "#42434E"
